@@ -1,0 +1,21 @@
+.ympicker-container {
+	display: flex;
+	border: 1px solid black;
+	border-radius: 4px 4px 0 0;
+	justify-content: space-around;
+	background: #DCDCDC;
+	width: 250px;
+	font-size: 20px;
+	font-weight: 600;
+	padding: 8px;
+	font-family: arial, sans serif;
+}
+
+.month-button {
+	border: 1px solid blue;
+	border-radius: 4px;
+	font-size: 16px;
+	font-weight: 700;
+	color: blue;
+	cursor: pointer;
+}

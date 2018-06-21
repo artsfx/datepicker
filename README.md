@@ -1,2 +1,0 @@
-# datepicker
-Created with CodeSandbox
